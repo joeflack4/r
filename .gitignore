@@ -1,3 +1,7 @@
+# R Project Ignores
+.idea/
+*_dev/
+
 # History files
 .Rhistory
 .Rapp.history
