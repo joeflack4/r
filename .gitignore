@@ -1,6 +1,7 @@
 # R Project Ignores
 .idea/
-*_dev/
+*_dev
+*_ignored
 
 # History files
 .Rhistory
